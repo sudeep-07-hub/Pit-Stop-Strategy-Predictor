@@ -7,7 +7,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange?logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7+-green)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-red)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
@@ -206,23 +205,3 @@ jupyter
 - **Additional features:** Gap to car ahead/behind (undercut opportunity), safety car probability, weather conditions
 - **Feature refinement:** Remove `TyreLifeSquared` or apply PCA to resolve multicollinearity with `TyreLife`
 - **Live inference:** Deploy model as a REST API that accepts live lap telemetry and returns pit probability in real time
-
----
-
-## 👤 Author
-
-**Sukesh**  
-Data Science Student | F1 Enthusiast  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.  
-F1 data is sourced via the FastF1 library for educational purposes only.
-
----
-
-*Week 2 of a 4-week F1 Data Science Portfolio Project*  
-*Week 1: [F1 Race Performance Dashboard](https://github.com/YOUR_USERNAME/f1-dashboard)*
