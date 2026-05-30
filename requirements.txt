@@ -1,5 +1,8 @@
-fastf1
-numpy
-pandas
-plotly
-streamlit
+fastf1==3.3.9
+numpy==1.26.4
+pandas>=2.0.0
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+shap>=0.44.0
+matplotlib>=3.7.0
+jupyter
