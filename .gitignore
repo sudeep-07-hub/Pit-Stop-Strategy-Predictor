@@ -1,5 +1,8 @@
-data/f1_cache/
+/data/f1_cache/
 __pycache__/
 .ipynb_checkpoints/
 *.sqlite
 .DS_Store
+*.ff1pkl
+.virtual_documents/
+.env
